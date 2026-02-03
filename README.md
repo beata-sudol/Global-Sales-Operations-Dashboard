@@ -1,8 +1,6 @@
 # Global-Sales-Operations-Dashboard
 End-to-end Power BI project analyzing global sales and operational efficiency with advanced data cleaning.
 
-#Global Sales & Operations Dashboards
-
 ## Project Overview
 This Power BI project an end-to-end sales analysis of a fictional e-commerce company using Power BI. The dashboard focuses on sales performance, target attainment, profitability, and operational efficiency.
 
@@ -32,5 +30,6 @@ A significant part of this project involved resolving critical data quality issu
 
 ## 📈 Visuals & Navigation
 1.Executive Overview:
+
 2.Order & Operations:
 
