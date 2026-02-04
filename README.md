@@ -1,6 +1,6 @@
 # Global-Sales-Operations-Dashboard
 End-to-end Power BI project analyzing global sales and operational efficiency with advanced data cleaning.
-> **🚀 [View Interactive Dashboard (Live Version)]((https://app.fabric.microsoft.com/view?r=eyJrIjoiMWVlZTg1MTQtMGJkNC00NWI0LThlY2MtYzc2ZTQ4OGNlM2E2IiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9))**
+> **🚀 [Click here to open the Interactive Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMWVlZTg1MTQtMGJkNC00NWI0LThlY2MtYzc2ZTQ4OGNlM2E2IiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)**
 
 ## Project Overview
 This Power BI project an end-to-end sales analysis of a fictional e-commerce company using Power BI. The dashboard focuses on sales performance, target attainment, profitability, and operational efficiency.
