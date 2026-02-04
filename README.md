@@ -30,7 +30,8 @@ A significant part of this project involved resolving critical data quality issu
 
 ## 📈 Visuals & Navigation
 1.Executive Overview:
-<img width="1497" height="830" alt="Dashboard 1" src="https://github.com/user-attachments/assets/2695030e-9ef0-4e69-892a-7f4aaf397448" />
+<img width="1417" height="795" alt="Dashboard 1" src="https://github.com/user-attachments/assets/06017c42-8a21-4f85-84bc-ee5c28d86af8" />
 
-2.Order & Operations:
-<img width="1499" height="839" alt="Dashboard 2" src="https://github.com/user-attachments/assets/f21c2ea4-c96a-43fe-92d1-f0c7ec422c50" />
+
+2.Order & Operations:<img width="1424" height="793" alt="Dashboard 2" src="https://github.com/user-attachments/assets/dd116dff-b543-41a0-b125-c8a7b1fdc666" />
+
